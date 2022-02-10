@@ -1,0 +1,187 @@
+Country_Code,Income_Group,Country_Name,Employment,Life_Expectancy,TFR,colors
+AFG,Low income,Afghanistan,7.8699998860000004,66.026,4.473,red
+AGO,Lower middle income,Angola,12.72000027,63.666,5.519,skyblue
+ALB,Upper middle income,Albania,47.02000046,80.167,1.617,skyblue
+ARE,High income,United Arab Emirates,96.26000214,79.164,1.413,green
+ARG,Upper middle income,Argentina,77.43000031,79.863,2.261,skyblue
+ARM,Upper middle income,Armenia,68.15000153,78.354,1.755,skyblue
+AUS,High income,Australia,88.02999878,84.9,1.74,green
+AUT,High income,Austria,90.58999634,84.1,1.47,green
+AZE,Upper middle income,Azerbaijan,26.93000031,75.336,1.73,skyblue
+BDI,Low income,Burundi,10.03999996,63.031,5.41,red
+BEL,High income,Belgium,89.29000092,83.9,1.62,green
+BEN,Lower middle income,Benin,5.679999828,63.003,4.836,skyblue
+BFA,Low income,Burkina Faso,10.94999981,61.863,5.189,red
+BGD,Lower middle income,Bangladesh,32.61000061,74.291,2.036,skyblue
+BGR,Upper middle income,Bulgaria,91.40000153,78.6,1.56,skyblue
+BHR,High income,Bahrain,96.94999695,78.285,1.987,green
+BHS,High income,"Bahamas, The",93.18000031,75.911,1.752,green
+BIH,Upper middle income,Bosnia and Herzegovina,78.90000153,79.72,1.265,skyblue
+BLR,Upper middle income,Belarus,97.23000336,79.4,1.448,skyblue
+BLZ,Lower middle income,Belize,67.04000092,77.666,2.307,skyblue
+BOL,Lower middle income,Bolivia,27.75,74.209,2.73,skyblue
+BRA,Upper middle income,Brazil,72.95999908,79.362,1.73,skyblue
+BRB,High income,Barbados,87.77999878,80.392,1.619,green
+BRN,High income,Brunei Darussalam,91.48000336,76.96,1.848,green
+BTN,Lower middle income,Bhutan,16.27000046,71.816,1.975,skyblue
+BWA,Upper middle income,Botswana,74.12000275,72.049,2.874,skyblue
+CAF,Low income,Central African Republic,3.160000086,54.991,4.721,red
+CAN,High income,Canada,87.87999725,84.2,1.4988,green
+CHE,High income,Switzerland,87.37999725,85.7,1.52,green
+CHI,High income,Channel Islands,85.27999878,84.798,1.51,green
+CHL,High income,Chile,74.41999817,82.381,1.649,green
+CHN,Upper middle income,China,53.20999908,79.051,1.69,skyblue
+CIV,Lower middle income,Cote d'Ivoire,17.75,58.741,4.649,skyblue
+CMR,Lower middle income,Cameroon,16.28000069,60.192,4.572,skyblue
+COD,Low income,"Congo, Dem. Rep.",10.97999954,61.901,5.919,red
+COG,Lower middle income,"Congo, Rep.",8.510000229,65.703,4.428,skyblue
+COL,Upper middle income,Colombia,50.99000168,79.859,1.807,skyblue
+COM,Lower middle income,Comoros,30.97999954,65.9,4.205,skyblue
+CPV,Lower middle income,Cabo Verde,66.91999817,76.007,2.274,skyblue
+CRI,Upper middle income,Costa Rica,77.02999878,82.73,1.754,skyblue
+CUB,Upper middle income,Cuba,87.27999878,80.706,1.618,skyblue
+CYP,High income,Cyprus,89.87000275,82.913,1.329,green
+CZE,High income,Czech Republic,87.58999634,82.0,1.71,green
+DEU,High income,Germany,92.70999908,83.3,1.57,green
+DJI,Lower middle income,Djibouti,57.49000168,68.778,2.728,skyblue
+DNK,High income,Denmark,94.88999939,82.9,1.73,green
+DOM,Upper middle income,Dominican Republic,69.47000122,77.196,2.346,skyblue
+DZA,Lower middle income,Algeria,74.58000183,77.938,3.023,skyblue
+ECU,Upper middle income,Ecuador,41.11999893,79.645,2.427,skyblue
+EGY,Lower middle income,"Egypt, Arab Rep.",65.30999756,74.162,3.326,skyblue
+ERI,Low income,Eritrea,13.85000038,68.162,4.056,red
+ESP,High income,Spain,88.19000244,86.3,1.26,green
+EST,High income,Estonia,93.16999817,82.7,1.67,green
+ETH,Low income,Ethiopia,12.71000004,68.165,4.247,red
+FIN,High income,Finland,90.77999878,84.5,1.41,green
+FJI,Upper middle income,Fiji,50.93000031,69.178,2.774,skyblue
+FRA,High income,France,91.66000366,85.9,1.88,green
+GAB,Upper middle income,Gabon,63.59000015,68.323,3.969,skyblue
+GBR,High income,United Kingdom,89.06999969,83.1,1.68,green
+GEO,Upper middle income,Georgia,52.68999863,77.989,2.06,skyblue
+GHA,Lower middle income,Ghana,18.29000092,64.852,3.87,skyblue
+GIN,Low income,Guinea,2.420000076,61.666,4.7,red
+GMB,Low income,"Gambia, The",16.96999931,63.151,5.219,red
+GNB,Low income,Guinea-Bissau,18.35000038,59.913,4.476,red
+GNQ,Upper middle income,Equatorial Guinea,13.77000046,59.587,4.513,skyblue
+GRC,High income,Greece,71.61000061,84.4,1.35,green
+GTM,Upper middle income,Guatemala,50.63999939,76.937,2.87,skyblue
+GUM,High income,Guam,89.37000275,83.365,2.313,green
+GUY,Upper middle income,Guyana,65.58000183,72.972,2.462,skyblue
+HKG,High income,"Hong Kong SAR, China",94.84999847,87.7,1.072,green
+HND,Lower middle income,Honduras,41.52999878,77.378,2.46,skyblue
+HRV,High income,Croatia,90.02999878,81.4,1.47,green
+HTI,Lower middle income,Haiti,18.11000061,65.832,2.935,skyblue
+HUN,High income,Hungary,91.86000061,79.6,1.55,green
+IDN,Lower middle income,Indonesia,40.86999893,73.748,2.311,skyblue
+IND,Lower middle income,India,23.15999985,70.692,2.222,skyblue
+IRL,High income,Ireland,92.05999756,84.1,1.75,green
+IRN,Lower middle income,"Iran, Islamic Rep.",55.88999939,77.668,2.137,skyblue
+IRQ,Upper middle income,Iraq,94.05999756,72.486,3.672,skyblue
+ISL,High income,Iceland,91.40000153,84.5,1.71,green
+ISR,High income,Israel,90.66000366,84.8,3.09,green
+ITA,High income,Italy,83.08000183,85.6,1.29,green
+JAM,Upper middle income,Jamaica,67.01999664,75.993,1.979,skyblue
+JOR,Upper middle income,Jordan,97.69000244,76.175,2.761,skyblue
+JPN,High income,Japan,91.30000305,87.32,1.42,green
+KAZ,Upper middle income,Kazakhstan,76.94999695,77.19,2.84,skyblue
+KEN,Lower middle income,Kenya,41.65999985,68.684,3.492,skyblue
+KGZ,Lower middle income,Kyrgyz Republic,72.68000031,75.6,3.3,skyblue
+KHM,Lower middle income,Cambodia,45.70999908,71.629,2.503,skyblue
+KOR,High income,"Korea, Rep.",77.45999908,85.7,0.977,green
+KWT,High income,Kuwait,99.48000336,76.467,2.082,green
+LAO,Lower middle income,Lao PDR,17.71999931,69.417,2.667,skyblue
+LBN,Upper middle income,Lebanon,85.23999786,80.821,2.087,skyblue
+LBR,Low income,Liberia,9.0,65.114,4.315,red
+LBY,Upper middle income,Libya,64.68000031,75.788,2.24,skyblue
+LCA,Upper middle income,St. Lucia,80.59999847,77.434,1.436,skyblue
+LKA,Lower middle income,Sri Lanka,57.79000092,80.121,2.199,skyblue
+LSO,Lower middle income,Lesotho,43.47999954,56.954,3.141,skyblue
+LTU,High income,Lithuania,90.83000183,80.7,1.63,green
+LUX,High income,Luxembourg,92.58000183,84.6,1.38,green
+LVA,High income,Latvia,90.30999756,79.7,1.6,green
+MAC,High income,"Macao SAR, China",96.45999908,87.051,1.217,green
+MAR,Lower middle income,Morocco,41.08000183,77.668,2.415,skyblue
+MDA,Upper middle income,Moldova,71.59999847,76.074,1.262,skyblue
+MDG,Low income,Madagascar,9.880000114,68.301,4.077,red
+MDV,Upper middle income,Maldives,64.95999908,80.499,1.87,skyblue
+MEX,Upper middle income,Mexico,68.13999939,77.844,2.129,skyblue
+MKD,Upper middle income,North Macedonia,80.61000061,77.736,1.496,skyblue
+MLI,Low income,Mali,12.26000023,59.649,5.877,red
+MLT,High income,Malta,91.66000366,84.6,1.23,green
+MMR,Lower middle income,Myanmar,33.45999908,69.874,2.154,skyblue
+MNE,Upper middle income,Montenegro,85.98000336,79.199,1.745,skyblue
+MNG,Lower middle income,Mongolia,54.06000137,73.961,2.895,skyblue
+MOZ,Low income,Mozambique,6.96999979,62.966,4.852,red
+MRT,Lower middle income,Mauritania,23.11000061,66.292,4.561,skyblue
+MUS,Upper middle income,Mauritius,86.12999725,77.72,1.41,skyblue
+MWI,Low income,Malawi,31.28000069,66.937,4.209,red
+MYS,Upper middle income,Malaysia,71.18000031,78.167,2.001,skyblue
+NAM,Upper middle income,Namibia,57.09999847,66.18,3.396,skyblue
+NCL,High income,New Caledonia,86.76000214,80.2,1.97,green
+NER,Low income,Niger,1.75999999,63.212,6.913,red
+NGA,Lower middle income,Nigeria,14.10999966,55.244,5.387,skyblue
+NIC,Lower middle income,Nicaragua,51.99000168,77.77,2.404,skyblue
+NLD,High income,Netherlands,86.86000061,83.4,1.59,green
+NOR,High income,Norway,95.69999695,84.5,1.56,green
+NPL,Lower middle income,Nepal,11.75,71.9,1.917,skyblue
+NZL,High income,New Zealand,85.26999664,83.6,1.71,green
+OMN,High income,Oman,95.55000305,80.134,2.888,green
+PAK,Lower middle income,Pakistan,28.39999962,68.109,3.51,skyblue
+PAN,Upper middle income,Panama,64.52999878,81.593,2.461,skyblue
+PER,Upper middle income,Peru,39.13999939,79.28,2.254,skyblue
+PHL,Lower middle income,Philippines,60.09000015,75.387,2.576,skyblue
+PNG,Lower middle income,Papua New Guinea,14.51000023,65.576,3.564,skyblue
+POL,High income,Poland,83.97000122,81.7,1.46,green
+PRI,High income,Puerto Rico,91.33000183,83.382,1.035,green
+PRK,Low income,"Korea, Dem. People's Rep.",12.73999977,75.549,1.904,red
+PRT,High income,Portugal,87.55999756,84.5,1.42,green
+PRY,Upper middle income,Paraguay,56.08000183,76.25,2.429,skyblue
+PSE,Lower middle income,West Bank and Gaza,75.47000122,75.595,3.643,skyblue
+PYF,High income,French Polynesia,90.73999786,79.725,1.941,green
+QAT,High income,Qatar,99.51999664,81.876,1.866,green
+ROU,Upper middle income,Romania,76.08999634,79.2,1.76,skyblue
+RUS,Upper middle income,Russian Federation,94.23000336,77.82,1.579,skyblue
+RWA,Low income,Rwanda,23.04000092,70.784,4.044,red
+SAU,High income,Saudi Arabia,98.66000366,76.615,2.319,green
+SDN,Low income,Sudan,35.95999908,66.947,4.407,red
+SEN,Lower middle income,Senegal,28.87000084,69.627,4.625,skyblue
+SGP,High income,Singapore,90.86000061,85.5,1.14,green
+SLB,Lower middle income,Solomon Islands,26.82999992,74.697,4.403,skyblue
+SLE,Low income,Sierra Leone,3.930000067,55.106,4.263,red
+SLV,Lower middle income,El Salvador,54.04000092,77.635,2.039,skyblue
+SOM,Low income,Somalia,3.1900000569999998,58.791,6.072,red
+SRB,Upper middle income,Serbia,76.12999725,78.4,1.49,skyblue
+SSD,Low income,South Sudan,4.099999905,59.135,4.696,red
+STP,Lower middle income,Sao Tome and Principe,42.13000107,72.583,4.321,skyblue
+SUR,Upper middle income,Suriname,89.36000061,74.937,2.418,skyblue
+SVK,High income,Slovak Republic,90.16000366,80.8,1.54,green
+SVN,High income,Slovenia,88.06999969,84.4,1.61,green
+SWE,High income,Sweden,94.40000153,84.3,1.76,green
+SWZ,Lower middle income,Eswatini,58.68999863,63.968,2.99,skyblue
+SYR,Low income,Syrian Arab Republic,91.91999817,77.763,2.808,red
+TCD,Low income,Chad,1.059999943,55.4,5.747,red
+TGO,Low income,Togo,11.01000023,61.612,4.32,red
+THA,Upper middle income,Thailand,48.40000153,80.704,1.525,skyblue
+TJK,Lower middle income,Tajikistan,65.98000336,73.177,3.585,skyblue
+TKM,Upper middle income,Turkmenistan,63.22000122,71.584,2.786,skyblue
+TLS,Lower middle income,Timor-Leste,19.32999992,71.376,4.023,skyblue
+TON,Upper middle income,Tonga,50.18999863,72.763,3.556,skyblue
+TTO,High income,Trinidad and Tobago,83.59999847,76.092,1.725,green
+TUN,Lower middle income,Tunisia,85.43000031,78.536,2.197,skyblue
+TUR,Upper middle income,Turkey,65.51000214,80.336,2.069,skyblue
+TZA,Lower middle income,Tanzania,11.90999985,66.824,4.892,skyblue
+UGA,Low income,Uganda,16.23999977,65.173,4.955,red
+UKR,Lower middle income,Ukraine,86.29000092,76.72,1.301,skyblue
+URY,High income,Uruguay,75.76000214,81.359,1.973,green
+USA,High income,United States,94.83000183,81.2,1.7295,green
+UZB,Lower middle income,Uzbekistan,64.30000305,73.676,2.604,skyblue
+VCT,Upper middle income,St. Vincent and the Grenadines,78.16999817,75.007,1.891,skyblue
+VIR,High income,Virgin Islands (U.S.),93.41999817,82.9,2.06,green
+VNM,Lower middle income,Vietnam,39.38999939,79.442,2.049,skyblue
+VUT,Lower middle income,Vanuatu,28.51000023,71.99,3.782,skyblue
+WSM,Lower middle income,Samoa,74.75,75.325,3.877,skyblue
+YEM,Low income,"Yemen, Rep.",38.02999878,67.795,3.792,red
+ZAF,Upper middle income,South Africa,87.45999908,67.398,2.405,skyblue
+ZMB,Lower middle income,Zambia,15.53999996,66.447,4.633,skyblue
+ZWE,Lower middle income,Zimbabwe,22.55999947,62.598,3.615,skyblue
